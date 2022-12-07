@@ -1,6 +1,6 @@
 - 🗿 Hi, I’m Mehmet Soner Korucu aka @anecdote01
-- 🗿 I’m interested in mobile development and embedded systems
-- 🗿 I’m currently learning C & swift
+- 🗿 I’m interested in circuit boards and embedded systems
+- 🗿 I’m currently learning C & ARM
 - 🗿 You can reach me on linkedIn & Instagram @anunnameddude
 
 <!---

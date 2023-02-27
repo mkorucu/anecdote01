@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://mehmetsonerkorucu.com" target="blank"><img align="center" src=https://www.svgrepo.com/show/130546/world-wide-web.svg" alt="mkorucu" height="30" width="40" /></a>
+<a href="http://mehmetsonerkorucu.com" target="blank"><img align="center" src="https://static.wixstatic.com/media/f14254_5083ef63dd524f19890d00f265f2181e~mv2.png/v1/crop/x_0,y_273,w_960,h_267/fill/w_288,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.svg" alt="mkorucu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/anunnameddude/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anunnameddude" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mehmet-soner-korucu-9064a3150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet soner korucu" height="30" width="40" /></a>
 </p>
